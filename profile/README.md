@@ -1,4 +1,4 @@
 ## PixelGames
 
 * [📃 Regelwerk](https://github.com/PixelGamesNetzwerk/Regelwerk)
-* [💬 Discord](https://discord.gg/TdPqxSmCAf)
+* [💬 Discord](discord.pixelgames.at)
